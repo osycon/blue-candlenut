@@ -1,0 +1,51 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.map {
+  width: 600px;
+  margin: 0 auto;
+}
+.store-heading {
+}
+
+.store-list {
+  display: flex;
+  flex-flow: column wrap;
+  flex: 1 1 240px;
+  list-style: none;
+  align-items: center;
+  padding: 0;
+}
+
+.store {
+  display: flex;
+  justify-content: space-between;
+  width: 500px;
+  border-bottom: 1px solid darkgray;
+
+  padding: 1rem;
+  text-align: left;
+  margin-bottom: 1px;
+  transition: all 0.5s ease;
+  transform: scale(1);
+  color: darkgray;
+}
+.store:hover {
+  transform: scale(1.02);
+}
+.store-title {
+  font-size: 16px;
+  color: black;
+}
+.store-text {
+  font-size: 12px;
+}
+
+.store-text span {
+  color: black;
+}
+
+.store-send {
+  font-weight: bold;
+}
