@@ -1,6 +1,7 @@
 {
-  "name": "new",
+  "name": "blue-candlenut",
   "version": "1.0.0",
+  "homepage": "https://blue-candlenut.netlify.com",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
