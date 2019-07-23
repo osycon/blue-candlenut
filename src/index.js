@@ -56,7 +56,7 @@ class App extends Component {
         <Header />
         <div className="map">
           <Map
-            googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyDtKSyJrJAV2u350m0y-uiWvz_U9_nkfGY&v=3.exp&libraries=geometry,drawing,places"
+            googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyDGVf_CLmkF1hlip1PdeKuifzhRCjTKo44&v=3.exp&libraries=geometry,drawing,places"
             loadingElement={<div style={{ height: `100%` }} />}
             containerElement={
               <div style={{ height: `600px`, maxWidth: `800px` }} />
