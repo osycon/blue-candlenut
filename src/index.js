@@ -51,7 +51,7 @@ class App extends Component {
   };
 
   render() {
-    const apikey = process.env.GMAPS_API_KEY
+    const apikey = process.env.REACT_APP_GMAPS_API_KEY
     const baseUrl = `https://maps.googleapis.com/maps/api/js?key=${apikey}&v=3.exp&libraries=geometry,drawing,places`
     return (
       <div className="App">
