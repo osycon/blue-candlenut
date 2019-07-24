@@ -51,12 +51,14 @@ class App extends Component {
   };
 
   render() {
+    const apikey = process.env.GMAPS_API_KEY
+    const baseUrl = `https://maps.googleapis.com/maps/api/js?key=${apikey}&v=3.exp&libraries=geometry,drawing,places`
     return (
       <div className="App">
         <Header />
         <div className="map">
           <Map
-            googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyDGVf_CLmkF1hlip1PdeKuifzhRCjTKo44&v=3.exp&libraries=geometry,drawing,places"
+            googleMapURL={baseUrl}
             loadingElement={<div style={{ height: `100%` }} />}
             containerElement={
               <div style={{ height: `600px`, maxWidth: `800px` }} />
