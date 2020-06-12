@@ -10,7 +10,7 @@ export const places = [
     address: 'Verksvegen 15',
     zip: '4735',
     city: 'Evje',
-    country: 'Norway'
+    country: 'Norway',
   },
   {
     id: 'fk-butikken-tvedestrand',
@@ -23,7 +23,7 @@ export const places = [
     address: 'Tjennaveien 5',
     zip: '4900',
     city: 'Tvedestrand',
-    country: 'Norway'
+    country: 'Norway',
   },
   {
     id: 'fk-butikken-flekkefjord',
@@ -36,7 +36,7 @@ export const places = [
     address: 'Sundegaten 1',
     zip: '4400',
     city: 'Flekkefjord',
-    country: 'Norway'
+    country: 'Norway',
   },
   {
     id: 'fk-butikken-kristiansand',
@@ -49,7 +49,7 @@ export const places = [
     address: 'Rigetjønnveien 20',
     zip: '4604',
     city: 'Kristiansand',
-    country: 'Norway'
+    country: 'Norway',
   },
   {
     id: 'fk-butikken-lyngdal',
@@ -62,7 +62,7 @@ export const places = [
     address: 'Kirkeveien 32',
     zip: '4580',
     city: 'Lyngdal',
-    country: 'Norway'
+    country: 'Norway',
   },
   {
     id: 'fk-butikken-mandal',
@@ -75,7 +75,7 @@ export const places = [
     address: 'Langgata 21',
     zip: '4515',
     city: 'Mandal',
-    country: 'Norway'
+    country: 'Norway',
   },
   {
     id: 'fk-butikken-sorlandsparken',
@@ -88,7 +88,7 @@ export const places = [
     address: 'Barstølveien 3C',
     zip: '4636',
     city: 'Kristiansand',
-    country: 'Norway'
+    country: 'Norway',
   },
   {
     id: 'fk-butikken-egersund',
@@ -101,7 +101,7 @@ export const places = [
     address: 'Lygre 1',
     zip: '4370',
     city: 'Egersund',
-    country: 'Norway'
+    country: 'Norway',
   },
   {
     id: 'fk-butikken-byrne',
@@ -114,7 +114,7 @@ export const places = [
     address: 'Jupitervegen 4',
     zip: '4340',
     city: 'Bryne',
-    country: 'Norway'
+    country: 'Norway',
   },
   {
     id: 'fk-butikken-haugesund',
@@ -127,7 +127,7 @@ export const places = [
     address: 'Industrigata 4',
     zip: '5537',
     city: 'Haugesund',
-    country: 'Norway'
+    country: 'Norway',
   },
   {
     id: 'fk-butikken-stavanger',
@@ -140,7 +140,7 @@ export const places = [
     address: 'Sandvikveien 21',
     zip: '4016',
     city: 'Stavanger',
-    country: 'Norway'
+    country: 'Norway',
   },
   {
     id: 'fk-butikken-vikesa',
@@ -153,7 +153,7 @@ export const places = [
     address: 'Nesjane 2',
     zip: '4389',
     city: 'Vikeså',
-    country: 'Norway'
+    country: 'Norway',
   },
   {
     id: 'fk-butikken-klepp',
@@ -166,7 +166,7 @@ export const places = [
     address: 'Kjøpmannsbrotet 2',
     zip: '4352',
     city: 'Klepp',
-    country: 'Norway'
+    country: 'Norway',
   },
   {
     id: 'fk-butikken-ardal',
@@ -179,7 +179,7 @@ export const places = [
     address: 'Årdalstunet',
     zip: '4137',
     city: 'Årdal i Ryfylke',
-    country: 'Norway'
+    country: 'Norway',
   },
   {
     id: 'fk-butikken-etne',
@@ -192,7 +192,7 @@ export const places = [
     address: 'Haukelivegen 1001',
     zip: '5590',
     city: 'Etne',
-    country: 'Norway'
+    country: 'Norway',
   },
   {
     id: 'fk-butikken-kvinnherad',
@@ -205,34 +205,34 @@ export const places = [
     address: 'Omvikdalsvegen 370',
     zip: '5464',
     city: 'Dimmelsvik',
-    country: 'Norway'
+    country: 'Norway',
   },
-  {
-    id: 'fk-butikken-stord',
-    lat: 59.7624185,
-    lng: 5.4504941,
-    name: 'FK BUTIKKEN Stord',
-    send: false,
-    phone: '53 40 09 00',
-    email: 'fkstord@fkra.no',
-    address: 'Meatjønnshaugen 10',
-    zip: '5412',
-    city: 'Stord',
-    country: 'Norway'
-  },
-  {
-    id: 'minnesund-fritid-as',
-    lat: 60.4050075,
-    lng: 11.2416718,
-    name: 'Minnesund Fritid AS',
-    send: false,
-    phone: '97 78 14 47',
-    email: 'terje@myhrer.no',
-    address: 'Langsetvegen 57',
-    zip: '2092',
-    city: 'Minnesund',
-    country: 'Norway'
-  },
+  // {
+  //   id: 'fk-butikken-stord',
+  //   lat: 59.7624185,
+  //   lng: 5.4504941,
+  //   name: 'FK BUTIKKEN Stord',
+  //   send: false,
+  //   phone: '53 40 09 00',
+  //   email: 'fkstord@fkra.no',
+  //   address: 'Meatjønnshaugen 10',
+  //   zip: '5412',
+  //   city: 'Stord',
+  //   country: 'Norway'
+  // },
+  // {
+  //   id: 'minnesund-fritid-as',
+  //   lat: 60.4050075,
+  //   lng: 11.2416718,
+  //   name: 'Minnesund Fritid AS',
+  //   send: false,
+  //   phone: '97 78 14 47',
+  //   email: 'terje@myhrer.no',
+  //   address: 'Langsetvegen 57',
+  //   zip: '2092',
+  //   city: 'Minnesund',
+  //   country: 'Norway'
+  // },
   {
     id: 'alf-kristian-grovdal-as',
     lat: 62.5785151,
@@ -244,21 +244,21 @@ export const places = [
     address: 'Tokle',
     zip: '6320',
     city: 'Isfjorden',
-    country: 'Norway'
+    country: 'Norway',
   },
-  {
-    id: 'tor-will-as',
-    lat: 68.6887994,
-    lng: 14.4704757,
-    name: 'Tor-Will AS',
-    send: false,
-    phone: '76 13 80 50',
-    email: 'torstein.willassen@vkbb.no',
-    address: 'Veaveien 2',
-    zip: '8475',
-    city: 'Straumsjøen',
-    country: 'Norway'
-  },
+  // {
+  //   id: 'tor-will-as',
+  //   lat: 68.6887994,
+  //   lng: 14.4704757,
+  //   name: 'Tor-Will AS',
+  //   send: false,
+  //   phone: '76 13 80 50',
+  //   email: 'torstein.willassen@vkbb.no',
+  //   address: 'Veaveien 2',
+  //   zip: '8475',
+  //   city: 'Straumsjøen',
+  //   country: 'Norway'
+  // },
   {
     id: 'trbat-fritid-as',
     lat: 58.3378268,
@@ -270,7 +270,7 @@ export const places = [
     address: 'Reddal 65',
     zip: '4886',
     city: 'Grimstad',
-    country: 'Norway'
+    country: 'Norway',
   },
   {
     id: 'hus-og-hage-as',
@@ -283,7 +283,7 @@ export const places = [
     address: 'Stertivegen 14',
     zip: '2390',
     city: 'Moelv',
-    country: 'Norway'
+    country: 'Norway',
   },
   {
     id: 'toten-trading-as',
@@ -296,7 +296,7 @@ export const places = [
     address: 'Smågardsvegen 288',
     zip: '2846',
     city: 'Bøverbru',
-    country: 'Norway'
+    country: 'Norway',
   },
   {
     id: 'robomoweksperten-as-mortenshage',
@@ -309,7 +309,7 @@ export const places = [
     address: 'Jernbanegata 380',
     zip: '2335',
     city: 'Stange',
-    country: 'Norway'
+    country: 'Norway',
   },
   {
     id: 'vanning-installasjon-as',
@@ -322,7 +322,7 @@ export const places = [
     address: 'Bølerveien 13',
     zip: '1455',
     city: 'Nordre Frogn',
-    country: 'Norway'
+    country: 'Norway',
   },
   {
     id: 'surtevju-bildeler-as',
@@ -335,7 +335,7 @@ export const places = [
     address: 'Semsvegen 50',
     zip: '3676',
     city: 'Notodden',
-    country: 'Norway'
+    country: 'Norway',
   },
   {
     id: 'vigrestad-servicenter-as',
@@ -348,14 +348,106 @@ export const places = [
     address: 'Langgata 50',
     zip: '4362',
     city: 'Vigrestad',
-    country: 'Norway'
-  }
+    country: 'Norway',
+  },
+  {
+    id: 'borgstein-hage-fritid',
+    lat: 60.3944077,
+    lng: 11.2123132,
+    name: 'Borgstein Hage & Fritid',
+    send: false,
+    phone: '46 43 06 50',
+    email: 'fredrik.borgstein@outlook.com',
+    address: 'Sanderud 39D',
+    zip: '2092',
+    city: 'Minnesund',
+    country: 'Norway',
+  },
+  {
+    id: 'paulsen-as',
+    lat: 68.6911729,
+    lng: 14.4757902,
+    name: 'Paulsen AS',
+    send: false,
+    phone: '76 13 80 50',
+    email: 'kenneth.paulsen@vkbb.no',
+    address: 'Straume',
+    zip: '8475',
+    city: 'Straumsjøen',
+    country: 'Norway',
+  },
+  {
+    id: 'mk-smamaskinservice',
+    lat: 63.9643976,
+    lng: 11.3005741,
+    name: 'MK Småmaskinservice',
+    send: false,
+    phone: '90 36 78 10',
+    email: 'mk-sms@outlook.com',
+    address: 'Skoglivegen 7',
+    zip: '7670',
+    city: 'Inderøy',
+    country: 'Norway',
+  },
+  {
+    id: 'pero-maskin',
+    lat: 59.9056863,
+    lng: 10.497111,
+    name: 'Pero Maskin',
+    send: false,
+    phone: '67 15 30 00',
+    email: 'firma@pero.no',
+    address: 'Baker Østbys vei 24',
+    zip: '1351',
+    city: 'Rud',
+    country: 'Norway',
+  },
+  {
+    id: 'kjell-flato',
+    lat: 59.3989999,
+    lng: 10.4231187,
+    name: 'Kjell Flatø',
+    send: false,
+    phone: '41 30 93 22',
+    email: 'kjellfla@gmail.com',
+    address: 'Vikveien 430',
+    zip: '3180',
+    city: 'Nykirke',
+    country: 'Norway',
+  },
+  {
+    id: 'ole-magnus-roed',
+    lat: ,
+    lng: ,
+    name: 'Ole Magnus Røed',
+    send: false,
+    phone: '40 45 55 55',
+    email: 'ole@hedberg.no',
+    address: 'Funnefossvegen 122',
+    zip: '2166',
+    city: 'Opaker',
+    country: 'Norway',
+  },
+  {
+    id: 'maskin-og-robot-service-as',
+    lat: 59.1273595,
+    lng: 10.2363695,
+    name: 'Maskin og Robot Service AS',
+    send: true,
+    phone: '92 07 11 19',
+    email: 'robotservice2017@gmail.com',
+    address: 'Kilgata 17B',
+    zip: '3217',
+    city: 'Sandefjord',
+    country: 'Norway',
+  },
+
 ];
 
 export const defaultValues = {
   center: {
     lat: 62.982,
-    lng: 11.416
+    lng: 11.416,
   },
-  zoom: 5
+  zoom: 5,
 };
