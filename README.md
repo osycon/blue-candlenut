@@ -31,11 +31,12 @@ npm run test
 
 👤 **Fredric Hawk**
 
-* Github: [@ozinon](https://github.com/ozinon)
+- Github: [@fredhawk](https://github.com/fredhawk)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
