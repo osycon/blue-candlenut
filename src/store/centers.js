@@ -417,15 +417,15 @@ export const places = [
   },
   {
     id: 'ole-magnus-roed',
-    lat: ,
-    lng: ,
+    lat: 60.1733773,
+    lng: 11.5287991,
     name: 'Ole Magnus Røed',
     send: false,
     phone: '40 45 55 55',
     email: 'ole@hedberg.no',
     address: 'Funnefossvegen 122',
     zip: '2166',
-    city: 'Opaker',
+    city: 'Oppaker',
     country: 'Norway',
   },
   {
@@ -441,7 +441,6 @@ export const places = [
     city: 'Sandefjord',
     country: 'Norway',
   },
-
 ];
 
 export const defaultValues = {
