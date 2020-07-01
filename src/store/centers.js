@@ -428,19 +428,6 @@ export const places = [
     city: 'Oppaker',
     country: 'Norway',
   },
-  {
-    id: 'maskin-og-robot-service-as',
-    lat: 59.1273595,
-    lng: 10.2363695,
-    name: 'Maskin og Robot Service AS',
-    send: true,
-    phone: '92 07 11 19',
-    email: 'robotservice2017@gmail.com',
-    address: 'Kilgata 17B',
-    zip: '3217',
-    city: 'Sandefjord',
-    country: 'Norway',
-  },
 ];
 
 export const defaultValues = {
